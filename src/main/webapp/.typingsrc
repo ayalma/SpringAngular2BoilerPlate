@@ -1,0 +1,2 @@
+proxy="http://211.143.155.222:80"
+rejectUnauthorized=false
